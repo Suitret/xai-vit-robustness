@@ -1,10 +1,6 @@
 # Explainable AI Robustness Study
 
-This repository contains the code and data for a research study evaluating the robustness of Explainable AI (XAI) methods—Randomized Input Sampling for Explanation (RISE) and Transformer Input Sampling (TIS)—on Vision Transformer (ViT) models under various input corruptions using the ImageNet-C dataset.
-
-## Overview
-
-The study analyzes how saliency maps and metrics (Insertion AUC, Deletion AUC, Sparseness, SensitivityMax) are affected by corruptions such as brightness, Gaussian blur, Gaussian noise, motion blur, and shot noise. Key findings include the superior robustness of TIS over RISE and the impact of noise corruptions on explanation reliability, with implications for real-world applications like medical imaging and surveillance.
+This repository contains the code and data for a research study evaluating the robustness of 2 XAI methods.
 
 ## Repository Contents
 
